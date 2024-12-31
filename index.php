@@ -48,6 +48,7 @@
     </div>
 </div>   
     </main>
+    
         <!-- Services Preview -->
         <div class="grid md:grid-cols-2 gap-8 rounded-3xl bg-white shadow-xl p-8">
             <div class="space-y-6">
