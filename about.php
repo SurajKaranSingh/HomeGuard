@@ -41,7 +41,7 @@
                 disaster relief, and preparedness activities.</p>
             </div>
             <div data-aos="slide-in-left">
-                <img src="mission.jpg" alt="Civil Defence Mission" class="rounded-lg shadow-lg mx-auto w-full">
+                <img src="/assets/fire fighting.jpg" alt="Civil Defence Mission" class="rounded-lg shadow-lg mx-auto w-full">
             </div>
         </div>
 
