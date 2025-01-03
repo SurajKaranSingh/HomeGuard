@@ -28,7 +28,7 @@
             </p>
             </div>
             <div data-aos="slide-in-right">
-                <img src="/assets\civildefence logo.jpg" alt="Civil Defence Mission" class="rounded-lg shadow-lg mx-auto w-full">
+                <img src="/assets/civildefence logo.jpg" alt="Civil Defence Mission" class="rounded-lg shadow-lg mx-auto w-full">
             </div>
         </div>
 
